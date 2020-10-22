@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website | MARKIA SMITH</title>
+    <link>markiasmith.github.io/category/website/</link>
+      <atom:link href="markiasmith.github.io/category/website/index.xml" rel="self" type="application/rss+xml" />
+    <description>website</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Markia Smith 2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>markiasmith.github.io/media/monitor.png</url>
+      <title>website</title>
+      <link>markiasmith.github.io/category/website/</link>
+    </image>
+    
+    <item>
+      <title>BlackInData</title>
+      <link>markiasmith.github.io/project/blackindata/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>markiasmith.github.io/project/blackindata/</guid>
+      <description>&lt;p&gt;Amplifying Black folx in informatics, data science &amp;amp; coding around the world #BlackInData #BlackInDataWeek Nov 16th-21th&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BlackInGenetics</title>
+      <link>markiasmith.github.io/project/blackingenetics/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>markiasmith.github.io/project/blackingenetics/</guid>
+      <description>&lt;p&gt;BIG is an organization dedicated to amplifying voices and work by Black-identifying geneticists. #BlackInGenetics&lt;/p&gt;
+&lt;p&gt;Contact us: &lt;a href=&#34;http://blackingenetics.com/contact&#34;&gt;http://blackingenetics.com/contact&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out our job board: &lt;a href=&#34;https://www.blackingenetics.com/job-board&#34;&gt;https://www.blackingenetics.com/job-board&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

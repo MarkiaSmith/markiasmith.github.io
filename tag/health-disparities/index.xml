@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health disparities | MARKIA SMITH</title>
+    <link>markiasmith.github.io/tag/health-disparities/</link>
+      <atom:link href="markiasmith.github.io/tag/health-disparities/index.xml" rel="self" type="application/rss+xml" />
+    <description>health disparities</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Markia Smith 2020</copyright><lastBuildDate>Thu, 19 Nov 2020 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>markiasmith.github.io/media/monitor.png</url>
+      <title>health disparities</title>
+      <link>markiasmith.github.io/tag/health-disparities/</link>
+    </image>
+    
+    <item>
+      <title>Mutational signature analysis in African American and non-African American women with breast cancer</title>
+      <link>markiasmith.github.io/talk/2020-komentalk/</link>
+      <pubDate>Thu, 19 Nov 2020 14:00:00 +0000</pubDate>
+      <guid>markiasmith.github.io/talk/2020-komentalk/</guid>
+      <description>&lt;p&gt;Mutational signatures in breast cancer have been well-studied in populations of mostly Caucasian women. Our lab has shown that Black women are more likely to develop aggressive subtypes including basal-like and HER2-enriched tumors. While the expression data supports biological differences in tumors of Black and white women that lead to overall mortality differences, less is known about the role of mutational signatures in racial disparities. This preliminary examination in a targeted gene panel identified mutational signatures with high accuracy. Suggestive differences in frequency of signatures by race were noted. Ongoing sequencing will increase our sample size to further examine the factors that interact with mutational signatures leading to racial disparities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breast cancer disparities</title>
+      <link>markiasmith.github.io/project/breastcancer/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>markiasmith.github.io/project/breastcancer/</guid>
+      <description>&lt;p&gt;I will leverage &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Cancer Genome Atlas (TCGA)&lt;/a&gt; and the &lt;a href=&#34;https://unclineberger.org/cbcs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carolina Breast Cancer Study (CBCS)&lt;/a&gt; [20% and 50% black patients, respectively] to study mutational signatures and their role in breast cancer disparities. We will probe established risk factors for breast cancer. I anticipate that by investigating these relationships in a large, diverse patient population, I will identify novel associations between carcinogenic exposures and tumor biology in cancer disparities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Race and genetics: using genetics to fight health disparities</title>
+      <link>markiasmith.github.io/talk/2020-geneticslecture/</link>
+      <pubDate>Tue, 06 Oct 2020 08:00:00 +0000</pubDate>
+      <guid>markiasmith.github.io/talk/2020-geneticslecture/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This webinar was designed to help educators educate students on the importance of genetics and the history of racism in genetics.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Genetics and genomics are everywhere, therefore it is very important to educate the public. We are entering an era where genome sequencing is much more affordable and accessible, even to those outside a research or medical setting. Anyone can now send off a DNA sample to be sequenced by various companies. It is therefore becoming even more crucial that we educate as many people as possible about what the information they get back means (or doesn’t mean). Most people encounter genetic testing at some point in their medical histories. Consumers face choices regarding genetically modified food. Even superficial advertising campaigns today often invoke ‘DNA’. Navigating the modern world requires understanding how technological developments in medicine and agriculture, many based on genetics, impinge on our daily lives. Looking more broadly, all citizens must have some understanding of science and the scientific process for our society to function. In this lecture, I went over the importance of genetics to the general public, how we can use genetics to study disparities, and applications to research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discovering determinants of response to PD-1 inhibition in the BBN963 bladder cancer model.</title>
+      <link>markiasmith.github.io/talk/2019-bbspseminar/</link>
+      <pubDate>Mon, 06 May 2019 08:00:00 +0000</pubDate>
+      <guid>markiasmith.github.io/talk/2019-bbspseminar/</guid>
+      <description>&lt;p&gt;BBN963 model exhibited mixed response to aPD1 in both experiments, gene expression profiling revealed differences in response between the two groups which allowed us to evaluate differences in tumor immune microenvironment between responders and non-responders, previous evaluation of cytokine/chemokine signaling revealed IL-1, IL-2, MIP-1a, RANTES is upregulated in responders, and IL-5 downregulated in non-responders, More recent studies I have completed shown that IL12 is upregulated in NR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liver cancer disparities</title>
+      <link>markiasmith.github.io/project/livercancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>markiasmith.github.io/project/livercancer/</guid>
+      <description>&lt;p&gt;Identify mutational signatures in liver cancer and assess their relationship with environmental exposures and DNA repair markers, overall and by race/ethnicity. I will use mutation data to identify mutational signatures in primary liver cancer and to estimate the relationship of these signatures to exposure markers and DNA repair (such as aflaxtoxin, smoking, alcohol) emphasizing differential incidence among Asian patients.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

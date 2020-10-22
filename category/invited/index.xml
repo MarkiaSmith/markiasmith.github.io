@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited | MARKIA SMITH</title>
+    <link>markiasmith.github.io/category/invited/</link>
+      <atom:link href="markiasmith.github.io/category/invited/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Markia Smith 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 12:30:00 +0000</lastBuildDate>
+    <image>
+      <url>markiasmith.github.io/media/monitor.png</url>
+      <title>Invited</title>
+      <link>markiasmith.github.io/category/invited/</link>
+    </image>
+    
+    <item>
+      <title>Diversity Luncheon with Joan Reede and BIG</title>
+      <link>markiasmith.github.io/talk/2020-ashgdiversityluncheon/</link>
+      <pubDate>Tue, 27 Oct 2020 12:30:00 +0000</pubDate>
+      <guid>markiasmith.github.io/talk/2020-ashgdiversityluncheon/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A luncheon dedicated to bringing together historically marginalized genetics professionals and exploring diversity within genetics and ASHG as a whole.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Come chat with Joan Reede and BIG organizers to connect with fellow genetics professionals and dicusses how we can collectively work to expand the benefits of genetics and genomics research for people everywhere.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
