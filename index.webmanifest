@@ -5,14 +5,14 @@
   "theme_color": "#48D1CC",
   "background_color": "#48D1CC",
   "icons": [{
-    "src": "/markiasmith.github.io/images/icon_hud6daeefe0f77022d83badba4d7b9ceaf_13816_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hud6daeefe0f77022d83badba4d7b9ceaf_13816_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/markiasmith.github.io/images/icon_hud6daeefe0f77022d83badba4d7b9ceaf_13816_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hud6daeefe0f77022d83badba4d7b9ceaf_13816_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/markiasmith.github.io/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

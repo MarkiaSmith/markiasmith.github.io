@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>organizing | MARKIA SMITH</title>
-    <link>markiasmith.github.io/tag/organizing/</link>
-      <atom:link href="markiasmith.github.io/tag/organizing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://markiasmith.github.io/tag/organizing/</link>
+      <atom:link href="https://markiasmith.github.io/tag/organizing/index.xml" rel="self" type="application/rss+xml" />
     <description>organizing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Markia Smith 2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>markiasmith.github.io/media/monitor.png</url>
+      <url>https://markiasmith.github.io/media/monitor.png</url>
       <title>organizing</title>
-      <link>markiasmith.github.io/tag/organizing/</link>
+      <link>https://markiasmith.github.io/tag/organizing/</link>
     </image>
     
     <item>
       <title>BlackInData</title>
-      <link>markiasmith.github.io/project/blackindata/</link>
+      <link>https://markiasmith.github.io/project/blackindata/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>markiasmith.github.io/project/blackindata/</guid>
+      <guid>https://markiasmith.github.io/project/blackindata/</guid>
       <description>&lt;p&gt;Amplifying Black folx in informatics, data science &amp;amp; coding around the world #BlackInData #BlackInDataWeek Nov 16th-21th&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BlackInGenetics</title>
-      <link>markiasmith.github.io/project/blackingenetics/</link>
+      <link>https://markiasmith.github.io/project/blackingenetics/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>markiasmith.github.io/project/blackingenetics/</guid>
+      <guid>https://markiasmith.github.io/project/blackingenetics/</guid>
       <description>&lt;p&gt;BIG is an organization dedicated to amplifying voices and work by Black-identifying geneticists. #BlackInGenetics&lt;/p&gt;
 &lt;p&gt;Contact us: &lt;a href=&#34;http://blackingenetics.com/contact&#34;&gt;http://blackingenetics.com/contact&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Check out our job board: &lt;a href=&#34;https://www.blackingenetics.com/job-board&#34;&gt;https://www.blackingenetics.com/job-board&lt;/a&gt;&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Building Relationships to Diversify Graduate Education (BRDGE)</title>
-      <link>markiasmith.github.io/project/brdge/</link>
+      <link>https://markiasmith.github.io/project/brdge/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>markiasmith.github.io/project/brdge/</guid>
+      <guid>https://markiasmith.github.io/project/brdge/</guid>
       <description>&lt;p&gt;**Building Relationships to Diversify Graduate Education
 **
 Founded in 2019 by UNC-CH doctoral student Taylor Y. Dismuke, BRDGE Alliance was designed to be a STEM mentoring program with a goal to bridge the gap​ between underrepresented minorities and the STEM community.&lt;/p&gt;

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | MARKIA SMITH</title>
-    <link>markiasmith.github.io/publication/</link>
-      <atom:link href="markiasmith.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://markiasmith.github.io/publication/</link>
+      <atom:link href="https://markiasmith.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Markia Smith 2020</copyright>
     <image>
-      <url>markiasmith.github.io/media/monitor.png</url>
+      <url>https://markiasmith.github.io/media/monitor.png</url>
       <title>Publications</title>
-      <link>markiasmith.github.io/publication/</link>
+      <link>https://markiasmith.github.io/publication/</link>
     </image>
     
   </channel>

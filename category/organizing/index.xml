@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>organizing | MARKIA SMITH</title>
-    <link>markiasmith.github.io/category/organizing/</link>
-      <atom:link href="markiasmith.github.io/category/organizing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://markiasmith.github.io/category/organizing/</link>
+      <atom:link href="https://markiasmith.github.io/category/organizing/index.xml" rel="self" type="application/rss+xml" />
     <description>organizing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Markia Smith 2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>markiasmith.github.io/media/monitor.png</url>
+      <url>https://markiasmith.github.io/media/monitor.png</url>
       <title>organizing</title>
-      <link>markiasmith.github.io/category/organizing/</link>
+      <link>https://markiasmith.github.io/category/organizing/</link>
     </image>
     
     <item>
       <title>Building Relationships to Diversify Graduate Education (BRDGE)</title>
-      <link>markiasmith.github.io/project/brdge/</link>
+      <link>https://markiasmith.github.io/project/brdge/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>markiasmith.github.io/project/brdge/</guid>
+      <guid>https://markiasmith.github.io/project/brdge/</guid>
       <description>&lt;p&gt;**Building Relationships to Diversify Graduate Education
 **
 Founded in 2019 by UNC-CH doctoral student Taylor Y. Dismuke, BRDGE Alliance was designed to be a STEM mentoring program with a goal to bridge the gap​ between underrepresented minorities and the STEM community.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>talk | MARKIA SMITH</title>
-    <link>markiasmith.github.io/category/talk/</link>
-      <atom:link href="markiasmith.github.io/category/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://markiasmith.github.io/category/talk/</link>
+      <atom:link href="https://markiasmith.github.io/category/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>talk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Markia Smith 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>markiasmith.github.io/media/monitor.png</url>
+      <url>https://markiasmith.github.io/media/monitor.png</url>
       <title>talk</title>
-      <link>markiasmith.github.io/category/talk/</link>
+      <link>https://markiasmith.github.io/category/talk/</link>
     </image>
     
     <item>
       <title>Chat with #BlackinGenetics organizer Markia Smith about Systemic Racism in Science</title>
-      <link>markiasmith.github.io/talk/2020-ashgchat/</link>
+      <link>https://markiasmith.github.io/talk/2020-ashgchat/</link>
       <pubDate>Tue, 27 Oct 2020 13:30:00 +0000</pubDate>
-      <guid>markiasmith.github.io/talk/2020-ashgchat/</guid>
+      <guid>https://markiasmith.github.io/talk/2020-ashgchat/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This chat was designed to give a voice to historically marginalized communities to explore the role of racism in genetics.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Race and genetics: using genetics to fight health disparities</title>
-      <link>markiasmith.github.io/talk/2020-geneticslecture/</link>
+      <link>https://markiasmith.github.io/talk/2020-geneticslecture/</link>
       <pubDate>Tue, 06 Oct 2020 08:00:00 +0000</pubDate>
-      <guid>markiasmith.github.io/talk/2020-geneticslecture/</guid>
+      <guid>https://markiasmith.github.io/talk/2020-geneticslecture/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This webinar was designed to help educators educate students on the importance of genetics and the history of racism in genetics.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Discovering determinants of response to PD-1 inhibition in the BBN963 bladder cancer model.</title>
-      <link>markiasmith.github.io/talk/2019-bbspseminar/</link>
+      <link>https://markiasmith.github.io/talk/2019-bbspseminar/</link>
       <pubDate>Mon, 06 May 2019 08:00:00 +0000</pubDate>
-      <guid>markiasmith.github.io/talk/2019-bbspseminar/</guid>
+      <guid>https://markiasmith.github.io/talk/2019-bbspseminar/</guid>
       <description>&lt;p&gt;BBN963 model exhibited mixed response to aPD1 in both experiments, gene expression profiling revealed differences in response between the two groups which allowed us to evaluate differences in tumor immune microenvironment between responders and non-responders, previous evaluation of cytokine/chemokine signaling revealed IL-1, IL-2, MIP-1a, RANTES is upregulated in responders, and IL-5 downregulated in non-responders, More recent studies I have completed shown that IL12 is upregulated in NR.&lt;/p&gt;
 </description>
     </item>
